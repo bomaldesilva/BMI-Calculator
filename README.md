@@ -1,16 +1,4 @@
-# flutter_application_1
+#First Flutter App
+<h2>BMI Calculator</h2>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screenshot - iPhone 16 Plus - 2024-11-03 at 16 14 00](https://github.com/user-attachments/assets/7936a1e2-51fe-438d-8bca-3c297edd2708)
